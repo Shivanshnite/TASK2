@@ -34,5 +34,9 @@
 ![JOB_1.1](https://github.com/Shivanshnite/TASK2/blob/master/Screenshot%20(78).png)
 
 
+## BUILD PIPELINE IMAGE:
+
+![JOB_1.1](https://github.com/Shivanshnite/TASK2/blob/master/Screenshot%20(80).png)
+
 
 
